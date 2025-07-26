@@ -5,6 +5,10 @@
   <a href="https://linktr.ee/Aaditi_Singhal" target="_blank">
     <img src="https://img.shields.io/badge/Linktree-Connect-brightgreen?style=flat&logo=linktree&logoColor=white" />
   </a>
+  &nbsp;
+  <a href="https://aaditisinghal.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-blueviolet?style=flat&logo=githubpages&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -49,16 +53,17 @@
 ---
 
 ### 🤓 Fun Facts
-- 🔍 **Curiousity** is in my blood
-- ✈️ I love playing **golf and chess.** 
+- 🔍 **Curiosity** is in my blood
+- ✈️ I love playing **golf and chess**
 - 🎨 I sketch neurons when I’m bored (yes, brain cells 🧠)
-- 🧪 I like to do **heavy research** on any topic at 1 am for fun.
+- 🧪 I like to do **heavy research** on any topic at 1 am for fun
 - 💬 My favorite quote: *"Code like a scientist. Dream like a rebel."*
 
 ---
 
 ### 🌐 Let's Connect
 📬 [Linktree — Aaditi Singhal](https://linktr.ee/Aaditi_Singhal)  
+🌐 [My Personal Website / Portfolio](https://aaditisinghal.github.io/)  
 💡 Always up for meaningful conversations, collabs, and caffeinated brainstorming ☕💬
 
 ---
@@ -66,19 +71,3 @@
 <p align="center">
   ⭐ *“Empower. Innovate. Uplift. One line of code at a time.”*
 </p>
-
-
-<!--
-**aaditisinghal/aaditisinghal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
