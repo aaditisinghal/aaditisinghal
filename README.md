@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋 I'm Aaditi Singhal</h1>
-<h3 align="center">🚀 Biotech x Code | CS + Biology @ GSU | Empowering Women Globally 🌍</h3>
+<h3 align="center">🚀 Computer Science @ GSU | Empowering Women Globally 🌍</h3>
 
 <p align="center">
   <a href="https://linktr.ee/Aaditi_Singhal" target="_blank">
@@ -15,10 +15,9 @@
 
 ### 💫 About Me
 - 🎓 Undergrad Presidential Scholar @ **Georgia State University** (Biology + CS)
-- 🧬 Exploring **Bioinformatics**, **Machine Learning**, and **Global Health**
+- 🧬 Exploring **Artificial Intelligence**, **Machine Learning**, and **System Design**
 - ✨ Outreach Manager @ **Women’s Global** — Driving real impact in Uganda 🇺🇬
 - 💻 Currently learning: **AI/ML**, **Deep Learning**, and **Web Dev**
-- 🧠 Long-term goal: Become a **top bioinformatics scientist** + **build a global health startup**
 
 ---
 
@@ -44,9 +43,9 @@
 ---
 
 ### 🎯 2025 Goals
-- 🔬 Build 3+ bioinformatics projects (including an open-source tool)
-- 🤖 Deploy my first ML/DL model in healthcare
-- 🏆 Win a hackathon @ **MIT/Georgia Tech**
+- 🔬 Build 3+ projects (including an open-source tool)
+- 🤖 Deploy my first ML/DL model
+- 🏆 Win a hackathon @ **MIT/Georgia Tech** achieved
 - 📝 Publish a research paper or scientific blog
 - 🎤 Speak at a student tech or science event
 
@@ -55,7 +54,7 @@
 ### 🤓 Fun Facts
 - 🔍 **Curiosity** is in my blood
 - ✈️ I love playing **golf and chess**
-- 🎨 I sketch neurons when I’m bored (yes, brain cells 🧠)
+- 🎨 I sketch neurons PR NEURAL NETWORKS when I’m bored (yes, brain cells 🧠)
 - 🧪 I like to do **heavy research** on any topic at 1 am for fun
 - 💬 My favorite quote: *"Code like a scientist. Dream like a rebel."*
 
