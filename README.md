@@ -53,7 +53,6 @@
 ---
 
 ### 🌐 Let's Connect
-📬 [Linktree — Aaditi Singhal](https://linktr.ee/Aaditi_Singhal)  
 🌐 [My Personal Website / Portfolio](https://www.aaditisinghal.online/)  
 💡 Always up for meaningful conversations, collabs, and caffeinated brainstorming ☕💬
 
