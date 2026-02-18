@@ -1,15 +1,7 @@
 <h1 align="center">Hey there 👋 I'm Aaditi Singhal</h1>
 <h3 align="center">🚀 Computer Science @ GSU | Empowering Women Globally 🌍</h3>
 
-<p align="center">
-  <a href="https://linktr.ee/Aaditi_Singhal" target="_blank">
-    <img src="https://img.shields.io/badge/Linktree-Connect-brightgreen?style=flat&logo=linktree&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://aaditisinghal.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-blueviolet?style=flat&logo=githubpages&logoColor=white" />
-  </a>
-</p>
+
 
 ---
 
