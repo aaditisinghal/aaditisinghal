@@ -6,7 +6,7 @@
 ---
 
 ### 💫 About Me
-- 🎓 Undergrad Presidential Scholar @ **Georgia State University** (Biology + CS)
+- 🎓 Undergrad Presidential Scholar @ **Georgia State University** 
 - 🧬 Exploring **Artificial Intelligence**, **Machine Learning**, and **System Design**
 - ✨ Outreach Manager @ **Women’s Global** — Driving real impact in Uganda 🇺🇬
 - 💻 Currently learning: **AI/ML**, **Deep Learning**, and **Web Dev**
