@@ -1,6 +1,4 @@
 <h1 align="center">Hey there 👋 I'm Aaditi Singhal</h1>
-<h3 align="center">🚀 Computer Science @ GSU </h3>
-
 
 
 ---
