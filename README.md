@@ -4,6 +4,9 @@
 ---
 
 ### 💫 About Me
+- **Judged 3** global hackathons!
+- **Won 7** global hackathons!
+- Building my own startup!
 - 🎓 Undergrad Presidential Scholar @ **Georgia State University** 
 - 🧬 Exploring **Artificial Intelligence**, **Machine Learning**, and **System Design**
 - ✨ Outreach Manager @ **Women’s Global** — Driving real impact in Uganda 🇺🇬
@@ -42,7 +45,7 @@
 ---
 
 ### 🤓 Fun Facts
-- 🔍 **Curiosity** is in my blood
+- 🔍 **Curiosity** is in my veins
 - ✈️ I love playing **golf and chess**
 - 🎨 I sketch neurons PR NEURAL NETWORKS when I’m bored (yes, brain cells 🧠)
 - 🧪 I like to do **heavy research** on any topic at 1 am for fun
