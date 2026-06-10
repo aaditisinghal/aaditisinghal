@@ -35,15 +35,6 @@
 
 ---
 
-### 🎯 2025 Goals
-- 🔬 Build 3+ projects (including an open-source tool)
-- 🤖 Deploy my first ML/DL model
-- 🏆 Win a hackathon @ **MIT/Georgia Tech** achieved
-- 📝 Publish a research paper or scientific blog
-- 🎤 Speak at a student tech or science event
-
----
-
 ### 🤓 Fun Facts
 - 🔍 **Curiosity** is in my veins
 - ✈️ I love playing **golf and chess**
