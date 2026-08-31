@@ -6,7 +6,7 @@
 ### 💫 About Me
 - **Judged 3** global hackathons!
 - **Won 7** global hackathons!
-- Building my own startup!
+- Built a startup!
 - 🎓 Undergrad Presidential Scholar @ **Georgia State University** 
 - 🧬 Exploring **Artificial Intelligence**, **Machine Learning**, and **System Design**
 - ✨ Outreach Manager @ **Women’s Global** — Driving real impact in Uganda 🇺🇬
@@ -45,7 +45,7 @@
 ---
 
 ### 🌐 Let's Connect
-🌐 [My Personal Website / Portfolio](https://www.aaditisinghal.online/)  
+🌐 [My Personal Website / Portfolio](https://aaditisinghal.github.io/)  
 💡 Always up for meaningful conversations, collabs, and caffeinated brainstorming ☕💬
 
 ---
