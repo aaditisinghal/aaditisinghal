@@ -52,13 +52,14 @@
 ## GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=aaditisinghal&show_icons=true&hide_border=true&theme=default&count_private=true" alt="Aaditi's GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaditisinghal&layout=compact&hide_border=true&theme=default" alt="Top languages">
+  <img src="/github-metrics.svg" alt="Aaditi's GitHub stats and top languages">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aaditisinghal&theme=minimal&hide_border=true" alt="Aaditi's contribution activity graph">
+  <img src="/github-metrics-calendar.svg" alt="Aaditi's contribution calendar">
 </p>
+
+<sub>Generated on a schedule by <a href=".github/workflows/metrics.yml">GitHub Actions</a> using <a href="https://github.com/lowlighter/metrics">lowlighter/metrics</a> — self-hosted, no third-party server dependency.</sub>
 
 ---
 
