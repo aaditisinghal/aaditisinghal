@@ -59,8 +59,6 @@
   <img src="/github-metrics-calendar.svg" alt="Aaditi's contribution calendar">
 </p>
 
-<sub>Generated on a schedule by <a href=".github/workflows/metrics.yml">GitHub Actions</a> using <a href="https://github.com/lowlighter/metrics">lowlighter/metrics</a> — self-hosted, no third-party server dependency.</sub>
-
 ---
 
 ## Beyond the Code
