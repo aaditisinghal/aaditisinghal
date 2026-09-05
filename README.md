@@ -15,7 +15,7 @@
 
 - 🎓 Undergrad Presidential Scholar at **Georgia State University**
 - 🏆 Judged 3 and won 7 global hackathons
-- 🚀 Building a startup
+- 🚀 Built a startup
 - 🧬 Focused on **Artificial Intelligence**, **Machine Learning**, and **System Design**
 - ✨ Outreach Manager at **Women's Global**, driving impact in Uganda 🇺🇬
 - 📚 Currently deepening my skills in **Deep Learning** and **Web Development**
