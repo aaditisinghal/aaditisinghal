@@ -1,80 +1,198 @@
 <h1 align="center">Hi, I'm Aaditi Singhal</h1>
-<p align="center">Undergrad Presidential Scholar · AI/ML · System Design</p>
 
 <p align="center">
-  <a href="https://aaditisinghal.github.io/"><img src="https://img.shields.io/badge/Portfolio-aaditisinghal.github.io-000000?style=flat&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
+  <b>Computer Science @ Georgia State University</b> · Founder · AI/ML · Systems
+  <br/>
+  Building AI-powered products across fintech, healthcare, and sustainability
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=6E56CF&center=true&vCenter=true&width=560&lines=Judged+3+global+hackathons;Won+7+global+hackathons;Building+at+the+intersection+of+AI+and+impact" alt="Typing SVG">
+  <a href="https://aaditisinghal.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-aaditisinghal.github.io-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=6E56CF&center=true&vCenter=true&width=650&lines=Founder+%7C+AI%2FML+Builder+%7C+Researcher;Building+systems%2C+not+just+models;3+published+papers+%C2%B7+7+hackathon+wins+%C2%B7+3+hackathons+judged" alt="Typing SVG">
 </p>
 
 ---
 
-## About Me
+## What I'm Building
 
-- 🎓 Undergrad Presidential Scholar at **Georgia State University**
-- 🏆 Judged 3 and won 7 global hackathons
-- 🚀 Built a startup
-- 🧬 Focused on **Artificial Intelligence**, **Machine Learning**, and **System Design**
-- ✨ Outreach Manager at **Women's Global**, driving impact in Uganda 🇺🇬
-- 📚 Currently deepening my skills in **Deep Learning** and **Web Development**
+I'm a Computer Science student, founder, and researcher interested in turning AI research into systems people can actually use.
+
+Currently building **Reakon**, a B2B fintech platform focused on recovering lost GST Input Tax Credit for Indian businesses.
+
+Previously built **ProfitWise**, an AI-powered financial platform for SMBs through Georgia Tech CreateX.
+
+My work sits at the intersection of **AI/ML, fintech, healthcare, sustainability, and full-stack systems**.
 
 ---
 
-## Tech Stack
+## Featured Work
+
+### 🚀 Reakon — Fintech B2B SaaS
+
+**Founder & CEO · 2026–Present**
+
+Building a money-recovery layer for Indian businesses around lost GST Input Tax Credit.
+
+* Full-stack system with real-time data pipelines and continuous monitoring
+* React / Next.js · Flask / Node.js · PostgreSQL
+* AWS / GCP · TensorFlow / PyTorch · Docker / Kubernetes
+* 20+ users in beta
+* Built a network of 250+ Chartered Accountants across Delhi, Gurgaon, and Bangalore
+* Accepted into AWS for Startups, Claude for Startups, and Google for Startups
+
+→ [reakon.in](https://reakon.in)
+
+---
+
+### 💰 ProfitWise — AI Financial Platform
+
+**Founder & CEO · Georgia Tech CreateX · 2025–Present**
+
+AI-powered financial platform combining bookkeeping automation, predictive analytics, anomaly detection, and investor dashboards.
+
+* 100+ users in testing
+* Reduced manual financial analysis time by 70%
+* Built multimodal onboarding using voice, camera, and computer vision
+* Real-time data pipelines with continuous monitoring
+* React / Next.js · Flask · PostgreSQL
+* TensorFlow / PyTorch · AWS / GCP · Docker / Kubernetes
+
+→ [profitwise.app](https://profitwise.app)
+
+---
+
+### 🌱 EcoAI — Carbon-Conscious AI SDK
+
+**HackMIT 2025 · 1st Place**
+
+A drop-in SDK and platform for reducing the environmental cost of AI inference.
+
+* 20–40% reduction in AI carbon emissions
+* 45% reduction in token usage
+* Prompt compression + multi-agent pruning + low-carbon inference routing
+* Zeus-inspired GPU power capping improved efficiency by 15–75%
+
+**Stack:** Flask · React · PostgreSQL · Chart.js · Deep Learning · RAG
+
+---
+
+### 🧭 HivePath AI — Multimodal Urban Intelligence
+
+**HackHarvard · Aramco Track · 2nd Place + Most Loved**
+
+A swarm of multimodal AI agents operating over a real-time Knowledge Graph for multi-objective city navigation.
+
+* 3 Graph Neural Networks
+* 0.4s inference
+* 60% faster solving than baseline
+* Optimizes time, cost, and CO₂ simultaneously
+* FastAPI · ONNX · Neo4j · Kafka · Kubernetes · OR-Tools
+
+---
+
+## 🔬 Research
+
+### Machine Unlearning Algorithms
+
+**Research Lead · 2024–Present**
+
+Researching selective forgetting methods for GDPR-style "right to erasure."
+
+* Influence functions
+* Parameter isolation
+* Fisher-based methods
+* ≤3% accuracy loss
+* Up to 97% baseline accuracy retention
+* Reproducible evaluation for forgetting efficacy, robustness, and system overhead
+
+**3 published research papers · 1st Place, MARCUS Research Conference**
+
+---
+
+## 🏆 Selected Recognition
+
+* 🥇 **HackMIT 2025** — 1st Place
+* 🥈 **HackHarvard** — 2nd Place + Most Loved
+* 🥇 **KSU Fintech Hackathon** — Winner
+* 🥈 **AI ATL** — Google Cloud Track
+* 🥈 **HackHer GSU** — 2nd Overall
+* 🥇 **SproutGT** — MLH Track Winner
+* 🥇 **MARCUS Research Conference** — 1st Place
+* 🏅 **ImmerseGT** — Verbal Mention
+* 🎤 **Hackathon Judge** — Hack Duke, Hackalytics, HackUGA
+* 📄 **3 Published Research Papers**
+* 🎓 **Presidential Scholar · Georgia State University**
+
+---
+
+## 🛠️ Tech Stack
 
 **Languages**
-<p>
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white" alt="R">
-</p>
 
-**Machine Learning & Data Science**
-<p>
-  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow">
-  <img src="https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas">
-  <img src="https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy">
-  <img src="https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="Scikit-learn">
-</p>
+`Python` `Java` `JavaScript` `TypeScript` `C++` `Swift` `SQL` `Kotlin`
 
-**Tools**
-<p>
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="VS Code">
-</p>
+**AI / ML**
+
+`PyTorch` `TensorFlow` `scikit-learn` `Hugging Face` `Transformers` `XGBoost` `NLP` `Computer Vision` `OCR` `RAG`
+
+**Full-Stack**
+
+`React` `Next.js` `Node.js` `Express` `Flask` `FastAPI`
+
+**Data & Infrastructure**
+
+`PostgreSQL` `MongoDB` `Firebase` `Neo4j` `AWS` `GCP` `Docker` `Kubernetes` `Kafka`
 
 ---
 
-## GitHub Stats
+## 🎓 Background
 
-<p align="center">
-  <img src="/github-metrics.svg" alt="Aaditi's GitHub stats and top languages">
-</p>
+**Georgia State University**
+B.S. Computer Science · Presidential Scholar · Honors College
 
-<p align="center">
-  <img src="/github-metrics-calendar.svg" alt="Aaditi's contribution calendar">
-</p>
+**Leadership**
+
+* Founder & President — Quantitative Computing & Research Society
+* Technical Lead — Women's Global
+* Golf Club
 
 ---
 
-## Beyond the Code
+## 🌎 Beyond Code
 
-- 🔍 Curious by default — I'll dig into almost any topic given the chance
-- ⛳ ♟️ I play golf and chess in my downtime
-- 🧠 I sketch neurons and neural networks when I'm bored
-- 🌙 I do my best deep-dive research at 1 a.m., purely for fun
-- 💬 Favorite quote: *"Code like a scientist. Dream like a rebel."*
+I'm curious by default.
+
+I like going down research rabbit holes, building things that weren't supposed to work, and learning by putting myself in unfamiliar environments.
+
+When I'm not coding, you'll probably find me playing **golf or chess**, sketching neural networks, or doing some completely unnecessary 1 a.m. deep dive.
 
 ---
 
 ## Let's Connect
 
-🌐 [Portfolio](https://aaditisinghal.github.io/) · Always open to meaningful conversations, collaborations, and caffeinated brainstorming ☕
+I'm interested in:
+
+**AI/ML · Research · Fintech · Startups · Systems · Hackathons**
+
+🌐 [Portfolio](https://aaditisinghal.github.io/)
+💼 [LinkedIn](https://www.linkedin.com/)
+📧 [Email](mailto:asinghal6@student.gsu.edu)
 
 <p align="center">
-  <sub><i>Empower. Innovate. Uplift. One line of code at a time.</i></sub>
+  <sub><i>Build something worth understanding.</i></sub>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aaditisinghal&show_icons=true&hide_border=true&rank_icon=github" alt="Aaditi's GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaditisinghal&layout=compact&hide_border=true&langs_count=8" alt="Aaditi's Top Languages" height="165"/>
 </p>
