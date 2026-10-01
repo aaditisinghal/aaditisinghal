@@ -10,7 +10,7 @@
   <a href="https://aaditisinghal.github.io/">
     <img src="https://img.shields.io/badge/Portfolio-aaditisinghal.github.io-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="https://www.linkedin.com/in/aaditisinghal/">
+  <a href="https://www.linkedin.com/in/aaditi-singhal/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
@@ -65,10 +65,14 @@ Golf ⛳ · Chess ♟️ · Research rabbit holes 🔍 · 1 a.m. deep dives 🌙
 
 <p align="center">
   <a href="https://aaditisinghal.github.io/">Portfolio</a> ·
-  <a href="https://www.linkedin.com/in/aaditisinghal/">LinkedIn</a> ·
+  <a href="https://www.linkedin.com/in/aaditis-inghal/">LinkedIn</a> ·
   <a href="mailto:asinghal6@student.gsu.edu">Email</a>
 </p>
 
 <p align="center">
   <sub><i>Build something worth understanding.</i></sub>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohit1053&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohit1053&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="165"/>
 </p>
