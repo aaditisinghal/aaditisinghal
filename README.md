@@ -73,6 +73,6 @@ Golf ⛳ · Chess ♟️ · Research rabbit holes 🔍 · 1 a.m. deep dives 🌙
   <sub><i>Build something worth understanding.</i></sub>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohit1053&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohit1053&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=aaditisinghal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaditisinghal&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="165"/>
 </p>
