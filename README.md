@@ -43,7 +43,7 @@ Currently exploring **AI/ML, system design, and applied research**.
 ## Research & Recognition
 
 * 🔬 **3 published papers** · Machine Unlearning Research Lead
-* 🥇 **7× Hackathon Winner** · HackMIT, KSU FinTech, SproutGT & more
+* 🥇 **11× Hackathon Winner** · HackMIT, KSU FinTech, SproutGT & more
 * 🧑‍⚖️ **Judged 3 hackathons** · HackDuke, Hackalytics, HackUGA
 * 🎓 **Presidential Scholar** · Georgia State University
 
