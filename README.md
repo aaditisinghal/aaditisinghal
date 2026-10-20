@@ -63,11 +63,7 @@ Currently exploring **AI/ML, system design, and applied research**.
 
 Golf ⛳ · Chess ♟️ · Research rabbit holes 🔍 · 1 a.m. deep dives 🌙
 
-<p align="center">
-  <a href="https://aaditisinghal.github.io/">Portfolio</a> ·
-  <a href="https://www.linkedin.com/in/aaditis-inghal/">LinkedIn</a> ·
-  <a href="mailto:asinghal6@student.gsu.edu">Email</a>
-</p>
+
 
 <p align="center">
   <sub><i>Build something worth understanding.</i></sub>
