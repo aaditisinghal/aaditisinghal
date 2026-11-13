@@ -17,7 +17,7 @@
 
 ---
 
-## What I'm Building
+## What I'm Built
 
 **Reakon** — Founder & CEO
 B2B fintech SaaS recovering lost GST Input Tax Credit for Indian businesses.
@@ -29,23 +29,12 @@ Currently exploring **AI/ML, system design, and applied research**.
 
 ---
 
-## Selected Work
-
-| Project          | Highlights                                    |
-| ---------------- | --------------------------------------------- |
-| **EcoAI**        | 🥇 HackMIT · 20–40% lower AI carbon emissions |
-| **HivePath AI**  | 🥈 HackHarvard · 3 GNNs · 0.4s inference      |
-| **MetabolX**     | 20K+ samples · 91.2% accuracy                 |
-| **NutriLens AR** | Computer vision + AR · <200ms latency         |
-
----
-
 ## Research & Recognition
 
 * 🔬 **3 published papers** · Machine Unlearning Research Lead
-* 🥇 **11× Hackathon Winner** · HackMIT, KSU FinTech, SproutGT & more
+* 🥇 **15× Hackathon Winner** · YC, Calhacks, Mercor hack, HackMIT, KSU FinTech, SproutGT & more
 * 🧑‍⚖️ **Judged 3 hackathons** · HackDuke, Hackalytics, HackUGA
-* 🎓 **Presidential Scholar** · Georgia State University
+* 🎓 **Presidential Scholar** · Georgia State University (top 10 students) 
 
 ---
 
@@ -61,7 +50,7 @@ Currently exploring **AI/ML, system design, and applied research**.
 
 ## Beyond Code
 
-Golf ⛳ · Chess ♟️ · Research rabbit holes 🔍 · 1 a.m. deep dives 🌙
+Golf ⛳ · Chess ♟️ · Research 🔍 · horror movies aficionado🌙
 
 
 <p align="center">
