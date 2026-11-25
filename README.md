@@ -17,7 +17,7 @@
 
 ---
 
-## What I'm Built
+## What I've Built
 
 **Reakon** — Founder & CEO
 B2B fintech SaaS recovering lost GST Input Tax Credit for Indian businesses.
